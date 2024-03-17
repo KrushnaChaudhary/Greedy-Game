@@ -1,0 +1,31 @@
+{
+    "customTemplateName": "New Custom Template",
+    "customObjects": [
+        {
+            "customObjectName": "DD",
+            "customPosition": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "customRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "customScale": {
+                "x": 2.0,
+                "y": 2.0,
+                "z": 2.0
+            },
+            "customColor": {
+                "r": 8.9622641801834106,
+                "g": 0.049928806722164157,
+                "b": 0.049928806722164157,
+                "a": 1.0
+            },
+            "customChildren": []
+        }
+    ]
+}
